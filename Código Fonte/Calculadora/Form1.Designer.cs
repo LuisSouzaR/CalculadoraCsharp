@@ -366,7 +366,6 @@
             // btn_Porcentagem
             // 
             this.btn_Porcentagem.BackColor = System.Drawing.Color.DarkGray;
-            this.btn_Porcentagem.Enabled = false;
             this.btn_Porcentagem.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btn_Porcentagem.FlatAppearance.BorderSize = 0;
             this.btn_Porcentagem.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -377,6 +376,7 @@
             this.btn_Porcentagem.TabIndex = 18;
             this.btn_Porcentagem.Text = "%";
             this.btn_Porcentagem.UseVisualStyleBackColor = false;
+            this.btn_Porcentagem.Click += new System.EventHandler(this.btn_Porcentagem_Click);
             // 
             // button18
             // 

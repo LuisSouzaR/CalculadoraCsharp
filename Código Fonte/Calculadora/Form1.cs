@@ -126,6 +126,12 @@ namespace Calculadora
             final = "false";
         }
 
+
+        private void btn_Porcentagem_Click(object sender, EventArgs e)
+        {
+            vNumber2 = vNumber2 / 100;
+        }
+
         private void btn_Apagar_Click(object sender, EventArgs e) // Botão apagar o ultimo caractere (backspace)
         {
             txt_Resultado.Text = txt_Resultado.Text.Substring(0, txt_Resultado.Text.Length - 1);
