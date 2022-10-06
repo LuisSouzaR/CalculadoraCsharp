@@ -30,7 +30,7 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Fmr_Calculadora));
             this.lbl_Titulo = new System.Windows.Forms.Label();
-            this.txt_Resultado = new System.Windows.Forms.TextBox();
+            this.txt_Visor = new System.Windows.Forms.TextBox();
             this.btn_Number4 = new System.Windows.Forms.Button();
             this.btn_Number8 = new System.Windows.Forms.Button();
             this.btn_Number9 = new System.Windows.Forms.Button();
@@ -67,16 +67,16 @@
             // 
             // txt_Resultado
             // 
-            this.txt_Resultado.BackColor = System.Drawing.Color.LightGray;
-            this.txt_Resultado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txt_Resultado.Font = new System.Drawing.Font("Verdana", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txt_Resultado.ForeColor = System.Drawing.Color.Black;
-            this.txt_Resultado.Location = new System.Drawing.Point(14, 77);
-            this.txt_Resultado.Name = "txt_Resultado";
-            this.txt_Resultado.ReadOnly = true;
-            this.txt_Resultado.Size = new System.Drawing.Size(287, 43);
-            this.txt_Resultado.TabIndex = 1;
-            this.txt_Resultado.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txt_Visor.BackColor = System.Drawing.Color.LightGray;
+            this.txt_Visor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txt_Visor.Font = new System.Drawing.Font("Verdana", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_Visor.ForeColor = System.Drawing.Color.Black;
+            this.txt_Visor.Location = new System.Drawing.Point(14, 77);
+            this.txt_Visor.Name = "txt_Resultado";
+            this.txt_Visor.ReadOnly = true;
+            this.txt_Visor.Size = new System.Drawing.Size(287, 43);
+            this.txt_Visor.TabIndex = 1;
+            this.txt_Visor.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // btn_Number4
             // 
@@ -428,7 +428,7 @@
             this.Controls.Add(this.btn_Number9);
             this.Controls.Add(this.btn_Number8);
             this.Controls.Add(this.btn_Number4);
-            this.Controls.Add(this.txt_Resultado);
+            this.Controls.Add(this.txt_Visor);
             this.Controls.Add(this.lbl_Titulo);
             this.ForeColor = System.Drawing.Color.White;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
@@ -445,7 +445,7 @@
         #endregion
 
         private System.Windows.Forms.Label lbl_Titulo;
-        private System.Windows.Forms.TextBox txt_Resultado;
+        private System.Windows.Forms.TextBox txt_Visor;
         private System.Windows.Forms.Button btn_Number4;
         private System.Windows.Forms.Button btn_Number8;
         private System.Windows.Forms.Button btn_Number9;
