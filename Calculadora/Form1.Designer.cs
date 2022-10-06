@@ -276,7 +276,6 @@
             // btn_Virgula
             // 
             this.btn_Virgula.BackColor = System.Drawing.Color.DarkGray;
-            this.btn_Virgula.Enabled = false;
             this.btn_Virgula.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
             this.btn_Virgula.FlatAppearance.BorderSize = 0;
             this.btn_Virgula.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
@@ -287,6 +286,7 @@
             this.btn_Virgula.TabIndex = 16;
             this.btn_Virgula.Text = ",";
             this.btn_Virgula.UseVisualStyleBackColor = false;
+            this.btn_Virgula.Click += new System.EventHandler(this.btn_Virgula_Click);
             // 
             // btn_Number0
             // 

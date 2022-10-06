@@ -84,6 +84,11 @@ namespace Calculadora
             txt_Resultado.Text = txt_Resultado.Text + "9";
         }
 
+        private void btn_Virgula_Click(object sender, EventArgs e) // Vírgula
+        {
+            txt_Resultado.Text = txt_Resultado.Text + ",";
+        }
+
         // OPERADORES
         private void btn_Adicao_Click(object sender, EventArgs e) // Botão de Adição
         {
