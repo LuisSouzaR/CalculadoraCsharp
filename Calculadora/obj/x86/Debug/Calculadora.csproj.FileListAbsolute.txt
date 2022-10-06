@@ -1,0 +1,17 @@
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\luisp\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Fmr_Calculadora.resources
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Fmr_Calculadora.resources
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora1\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Meus Documentos\Área de Trabalho\Escola\ETEC\DS\Projetos de C#\Calculadora1\Calculadora\obj\x86\Debug\Calculadora.pdb
